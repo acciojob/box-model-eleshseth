@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	justify-content:center;
+	background-color:grey;
+	padding:20px
+}
+.red {
+    background-color: red; /* Color for the red block */
+}
+
+.green {
+    background-color: green; /* Color for the green block */
+}
+
+.yellow {
+    background-color: yellow; /* Color for the yellow block */
+}
